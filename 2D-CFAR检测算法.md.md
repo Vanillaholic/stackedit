@@ -24,7 +24,7 @@ CFAR检测算法属于信号检测中的自动检测算法，在雷达信号处�
 
 一维CFAR检测流程图如下所示
 
-![一维CFAR检测图](/imgs/2025-02-26/AXl0K6GX26hN0u3u.png)
+
 
 ## 二、距离多普勒矩阵（Range-Doppler Matrix，RDM)
 
@@ -227,6 +227,6 @@ title('offset 1.4');
 [2] https://mp.weixin.qq.com/s/iC18AWIRj6jOnR8SJMbpZw
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NjgzNzkxNCwtMTUwOTc2MjYxLC02Mj
-k4NTk4NDAsMTg5NDI5MDY1XX0=
+eyJoaXN0b3J5IjpbLTc2NDkzNTY2NiwtMjg2ODM3OTE0LC0xNT
+A5NzYyNjEsLTYyOTg1OTg0MCwxODk0MjkwNjVdfQ==
 -->
