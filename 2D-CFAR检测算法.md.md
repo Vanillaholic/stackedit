@@ -30,7 +30,6 @@ CFAR检测算法属于信号检测中的自动检测算法，在雷达信号处�
 
 在检测过程中，除了要知道到目标的距离信息以外，还要知道目标的速度信息，因此1D-CFAR不再满足我们的要求，而是需要采用2D-CAFR。而2D-CAFR处理的对象就是距离多普勒矩阵（Range-Doppler Matrix），RDM的形成过程如下所示
 
-![RDM图的形成](./image/CFAR/RDM.png)![输入图片说明](/imgs/2025-02-26/EheRIpPdt07UCRPH.png)
 
 2D-CFAR是对两个维度同时检测，
 
@@ -228,6 +227,6 @@ title('offset 1.4');
 [2] https://mp.weixin.qq.com/s/iC18AWIRj6jOnR8SJMbpZw
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDk3NjI2MSwtNjI5ODU5ODQwLDE4OT
-QyOTA2NV19
+eyJoaXN0b3J5IjpbLTI4NjgzNzkxNCwtMTUwOTc2MjYxLC02Mj
+k4NTk4NDAsMTg5NDI5MDY1XX0=
 -->
